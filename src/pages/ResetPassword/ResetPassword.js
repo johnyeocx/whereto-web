@@ -75,7 +75,7 @@ function ResetPassword() {
     if (loading) {
         return (
             <div className="overall">
-                Loading
+                <h1 style={{ color: 'white' }}>Loading</h1>
             </div>
         )
 
